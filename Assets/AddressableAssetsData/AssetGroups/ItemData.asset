@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ItemData
+  m_EditorClassIdentifier: 
+  m_GroupName: ItemData
+  m_Data:
+    m_SerializedData: []
+  m_GUID: aa141ea7c75060d49b54ab9ffe6a9902
+  m_SerializeEntries:
+  - m_GUID: 24896f9acf6c2ec4a9e3b02118f582de
+    m_Address: Assets/02_Character/Item/Hat/BaseHat.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Equip
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 378783eae586bf64a920ac4da29e2499
+    m_Address: Assets/02_Character/Item/Weapon/Prefabs/AssetRef/Weapon3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Equip
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 422272c0ecdd2214bb0dad72fa6de9ab
+    m_Address: Assets/02_Character/Item/Weapon/Prefabs/AssetRef/BaseWeapon.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Equip
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c422020cdb65644ea2f6490ff963ccd
+    m_Address: Assets/02_Character/Item/Weapon/Prefabs/AssetRef/Weapon2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Equip
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84e11f3e5de2f564cae835d9767a214e
+    m_Address: Assets/02_Character/Item/Potion/BluePotion.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Equip
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f2efec34f2a36344a1ff2390fbd68d7
+    m_Address: Assets/02_Character/Item/Shoes/BaseShoes.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Equip
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adc19fac8c6c60f46a9b03ca028c4d2a
+    m_Address: Assets/02_Character/Item/Potion/RedPotion.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Equip
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f93e76c2f37a0b140b6c98fff3aad42b
+    m_Address: Assets/02_Character/Item/Top/Prefabs/BaseTop.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Equip
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 756bffc39c63186429c6e82be11235bb, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0587cea82149ad24db50694c68679897, type: 2}
+    - {fileID: 11400000, guid: fed1fefe833452b449e6a9d5c8851421, type: 2}

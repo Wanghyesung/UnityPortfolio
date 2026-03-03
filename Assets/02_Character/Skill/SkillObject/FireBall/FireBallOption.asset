@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90a846f40ea7dc941940921a0e557a65, type: 3}
+  m_Name: FireBallOption
+  m_EditorClassIdentifier: 
+  cooldown: 5
+  manacost: 20
+  power: 7
+  chargetime: 1.5
+  lifeTime: 5
+  moveSpeed: 5
+  destroyOnCancel: 1
+  castType: 1
+  targetingProfile: {fileID: 11400000, guid: a8b67be994cd13448adb8d47ba417609, type: 2}

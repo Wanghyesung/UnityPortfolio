@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ItemName Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ItemName
+  m_TableCollectionNameGuidString: 01d86f8c109675a499eb81e90c4c79f6
+  m_Entries:
+  - m_Id: 707143110656
+    m_Key: "Hat1\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713719779328
+    m_Key: Shoes1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 717125554176
+    m_Key: Top1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720468414464
+    m_Key: Weapon1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723840634880
+    m_Key: BluePotion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 728798302208
+    m_Key: RedPotion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 731331661824
+    m_Key: Hat2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 733563031552
+    m_Key: Top2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735572103168
+    m_Key: Top3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737551814656
+    m_Key: Weapon2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741519626240
+    m_Key: Weapon3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 749920817152
+    m_Key: QuestShield
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8658128937947758599
+  references:
+    version: 2
+    RefIds:
+    - rid: 8658128937947758599
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1768807004687

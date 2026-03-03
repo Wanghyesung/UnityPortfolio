@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 568a356ce0449d64a8f3e66223a66884, type: 3}
+  m_Name: TownAudio
+  m_EditorClassIdentifier: 
+  Clips:
+  - {fileID: 8300000, guid: f5c51a531df93cd4b9575890e0cb3746, type: 3}
+  OutputGroup: {fileID: 2369979209707171707, guid: 5a827612d6e111f4695e78159cbdcdcd,
+    type: 2}
+  Volume: 1
+  PitchMin: 1
+  PitchMax: 1
+  spatial3D: 0
+  SpatialBlend: 1

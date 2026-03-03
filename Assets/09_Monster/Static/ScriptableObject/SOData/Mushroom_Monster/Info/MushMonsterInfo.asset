@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 083f772ff5525444e93ec2f83974f054, type: 3}
+  m_Name: MushMonsterInfo
+  m_EditorClassIdentifier: 
+  MonsterID: 2
+  MonsterLevel: 15
+  MonsterType: 0
+  DropTable: {fileID: 11400000, guid: 4dc8224958e5101419aba85c7e28a5bc, type: 2}
+  skillinfo:
+  - SkillOption: {fileID: 11400000, guid: 88ade27f322c0e9479770bd4d1c10ca4, type: 2}
+    SpawnOption: {fileID: 11400000, guid: 148d2803139c3cf48b160559c33f7d4d, type: 2}

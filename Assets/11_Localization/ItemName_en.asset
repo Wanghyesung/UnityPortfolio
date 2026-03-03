@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ItemName_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 01d86f8c109675a499eb81e90c4c79f6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 707143110656
+    m_Localized: Base Hat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713719779328
+    m_Localized: Base Shoes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 717125554176
+    m_Localized: Base Top
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720468414464
+    m_Localized: Base Weapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723840634880
+    m_Localized: Blue Potion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 728798302208
+    m_Localized: RedPotion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 731331661824
+    m_Localized: High Hat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 733563031552
+    m_Localized: High Top
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735572103168
+    m_Localized: Rare Top
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737551814656
+    m_Localized: High Weapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741519626240
+    m_Localized: Rare Weapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 749920817152
+    m_Localized: QuestShield
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

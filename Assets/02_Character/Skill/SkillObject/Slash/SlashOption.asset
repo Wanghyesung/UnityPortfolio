@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90a846f40ea7dc941940921a0e557a65, type: 3}
+  m_Name: SlashOption
+  m_EditorClassIdentifier: 
+  cooldown: 3
+  manacost: 5
+  power: 2
+  chargetime: 0
+  lifeTime: 0.5
+  moveSpeed: 0
+  castType: 0
+  targetingProfile: {fileID: 11400000, guid: 7fc3fda167b97b749a4c36511eee68bd, type: 2}

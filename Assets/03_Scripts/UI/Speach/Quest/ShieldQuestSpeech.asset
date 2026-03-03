@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35f47a2775610ef40accf195de97091c, type: 3}
+  m_Name: ShieldQuestSpeech
+  m_EditorClassIdentifier: 
+  Message:
+    m_TableReference:
+      m_TableCollectionName: GUID:6ac72178d23003c418601f3a546b6fa2
+    m_TableEntryReference:
+      m_KeyId: 2677607875448832
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  Choice:
+    PositiveText:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    NegativeText:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    NextSpeech: {fileID: 11400000, guid: 0c5c87a75402bf94187b35766e549580, type: 2}
+    Action: 1
+  references:
+    version: 2
+    RefIds: []

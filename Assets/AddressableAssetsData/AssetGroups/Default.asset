@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  m_GroupName: Default
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 09b4621665fce804da0e9945ebaae759
+  m_SerializeEntries:
+  - m_GUID: 05609566f0df27848962c113cb77d33c
+    m_Address: Assets/04_Prefabs/Particle/Hit_1/Hit_1_Normal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e4a0f6dc23b3e94bbf14c8c6b6fa91d
+    m_Address: Assets/09_Monster/Static/ScriptableObject/SOData/Turtle/Info/TurtleBaseAttack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10396fe6dd1753542b6534b55dd052b6
+    m_Address: Assets/04_Prefabs/UI/DamageFont.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50a2051543a1b12419f46d4ad0d563e1
+    m_Address: Assets/09_Monster/Static/ScriptableObject/SOData/Dragon/AttackObject/Attack2/Explosion.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53f5a0914b195b74abc2fb43a9e2ce22
+    m_Address: Assets/01_Scenes/Desert/DesertScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5877e3097534f88488b14c167c2db79f
+    m_Address: Assets/09_Monster/Static/ScriptableObject/SOData/Dragon/AttackObject/Attack3/FlameThrowerEffect.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d8786213ebd9fb409399182ae21705a
+    m_Address: Assets/02_Character/Item/etc/QuestShield/Shield.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80c2b9f6e08ed7741b456563d295e015
+    m_Address: Assets/01_Scenes/Manager.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98c1e720430463643a2b744a19d910cb
+    m_Address: Assets/09_Monster/Static/ScriptableObject/SOData/Dragon/AttackObject/Attack2/BossFireBall.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e59038de397032448cf9b329c247777
+    m_Address: Assets/04_Prefabs/Particle/Hit_4/Hit_4_Blue.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3ee8adf347a73d4f8f96dccccf5006a
+    m_Address: Assets/09_Monster/Static/ScriptableObject/SOData/Dragon/AttackObject/DragonAttack1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c850ee8c3b14cc8459e7e186857cf567
+    m_Address: Assets/01_Scenes/Town/Town.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9e30e1e40e5f6a47aa6053500404e37
+    m_Address: Assets/01_Scenes/BossMap/BossMap.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e478c3b70df328545aa17b091c07280d
+    m_Address: Assets/09_Monster/Static/ScriptableObject/SOData/Stone/AttackObj/FireBall.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e581345c2cf36894a838367bef4309b3
+    m_Address: Assets/09_Monster/Static/ScriptableObject/SOData/Bee/AttackObject/MonsterAttack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f40db358de8027b40a465c9b3026ce5d
+    m_Address: Assets/04_Prefabs/Particle/Hit_3/Hit_3_Red.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f72a9eb7ca5cb4a42864bce51827c7a1
+    m_Address: Assets/09_Monster/Static/ScriptableObject/SOData/Mushroom_Monster/Info/MushAttack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffb7095b6c513194886bdeef32be59ea
+    m_Address: Assets/09_Monster/MonsterHPBar.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 756bffc39c63186429c6e82be11235bb, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5c687cc78289d9743a101592920f3741, type: 2}
+    - {fileID: 11400000, guid: 76089e3d7458ecf4d932ee99d38de30a, type: 2}

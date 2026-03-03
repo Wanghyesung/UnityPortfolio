@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66694f7ed18559645ba21aaab9980ed2, type: 3}
+  m_Name: SOGoldTable
+  m_EditorClassIdentifier: 
+  listGoldRange:
+  - MinLevel: 1
+    MaxLevel: 5
+    MinGold: 50
+    MaxGold: 150
+  - MinLevel: 6
+    MaxLevel: 10
+    MinGold: 151
+    MaxGold: 250
+  - MinLevel: 11
+    MaxLevel: 15
+    MinGold: 251
+    MaxGold: 350
+  - MinLevel: 16
+    MaxLevel: 20
+    MinGold: 351
+    MaxGold: 450
+  - MinLevel: 21
+    MaxLevel: 25
+    MinGold: 451
+    MaxGold: 550
+  - MinLevel: 26
+    MaxLevel: 30
+    MinGold: 551
+    MaxGold: 650
+  - MinLevel: 31
+    MaxLevel: 35
+    MinGold: 651
+    MaxGold: 750
+  - MinLevel: 36
+    MaxLevel: 40
+    MinGold: 751
+    MaxGold: 850
+  - MinLevel: 41
+    MaxLevel: 45
+    MinGold: 851
+    MaxGold: 950
+  - MinLevel: 46
+    MaxLevel: 50
+    MinGold: 951
+    MaxGold: 1050

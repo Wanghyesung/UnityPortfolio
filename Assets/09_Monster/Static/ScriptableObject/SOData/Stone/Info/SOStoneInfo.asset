@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 083f772ff5525444e93ec2f83974f054, type: 3}
+  m_Name: SOStoneInfo
+  m_EditorClassIdentifier: 
+  MonsterID: 1
+  MonsterLevel: 10
+  MonsterType: 0
+  DropTable: {fileID: 11400000, guid: 702b697e69218a14dac6387293aa0d2b, type: 2}
+  skillinfo:
+  - SkillOption: {fileID: 11400000, guid: d215eb2c314097a47a921653498f939b, type: 2}
+    SpawnOption: {fileID: 11400000, guid: 9965f083cb9d5db4caebfc5300c7df0b, type: 2}

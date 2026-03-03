@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a700d625066d4438613e14487a6011, type: 3}
+  m_Name: SOThunderSkill
+  m_EditorClassIdentifier: 
+  meta: {fileID: 11400000, guid: c985a758c7c003c4e9ac1472974e2c45, type: 2}
+  damage: {fileID: 11400000, guid: 077261714f784054eb3c0620e74c2ef5, type: 2}
+  defense: {fileID: 0}
+  buff: {fileID: 0}
+  option: {fileID: 11400000, guid: 4c9a440d6958c984b98b04c0d1da2df4, type: 2}
+  logic: {fileID: 11400000, guid: f4a0ce6928043404ca427f75b3cc104d, type: 2}
+  animation: {fileID: 11400000, guid: be085820d0781df488e430980f8ed22f, type: 2}

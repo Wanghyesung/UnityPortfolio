@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 126d0d3f3c61ae545ac803b28a3a5ee6, type: 3}
+  m_Name: BossMapLoad
+  m_EditorClassIdentifier: 
+  BGM: {fileID: 11400000, guid: feb26aa96031eb542a86e682b6216823, type: 2}
+  CurrentScene:
+    m_AssetGUID: c9e30e1e40e5f6a47aa6053500404e37
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  labelnames: []
+  poolentries:
+  - {fileID: 11400000, guid: a8d139bdd3a00304092a0d0f3ce042c9, type: 2}
+  - {fileID: 11400000, guid: 8afab9fd64abc1c4ca87ca00ece6f53e, type: 2}
+  - {fileID: 11400000, guid: 46cc2727d3e02cb4faa0b0a430098ba0, type: 2}
+  - {fileID: 11400000, guid: 57434e21db5a3a14a900f8b09d3610ff, type: 2}
+  - {fileID: 11400000, guid: 385324b87e3de9b4fae7a508bca4057b, type: 2}
+  - {fileID: 11400000, guid: 7a00f4e211afba84bb53ed673498ed1d, type: 2}
+  - {fileID: 11400000, guid: cec15d59ed1f7d74aa9b05cc59b8aa28, type: 2}
+  - {fileID: 11400000, guid: 0160dc8e172d5ea40968ed78e77d0f32, type: 2}
+  - {fileID: 11400000, guid: f1377e3060e75c9489e496efdc880326, type: 2}
+  - {fileID: 11400000, guid: 5155e13df952be9459ba9556aa8a2203, type: 2}
+  - {fileID: 11400000, guid: 23bc6f21b841d784ebf37d15e845b332, type: 2}
+  - {fileID: 11400000, guid: 3544f1b2253d6784b874bfc15d99d167, type: 2}
+  extraassets: []

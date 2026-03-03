@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f915fa26efd7d454f9ddc08690f63e68, type: 3}
+  m_Name: "\uAE30\uBCF8 \uC0C1\uC758"
+  m_EditorClassIdentifier: 
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: GUID:01d86f8c109675a499eb81e90c4c79f6
+    m_TableEntryReference:
+      m_KeyId: 717125554176
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  id: 62
+  icon: {fileID: 21300000, guid: 5105fe1d825990746b9a92407ea447ca, type: 3}
+  type: 24
+  itemdata: {fileID: 11400000, guid: eb4f084bb3f17bc40b36c45f0adb7efd, type: 2}
+  equiptype: 2
+  references:
+    version: 2
+    RefIds: []

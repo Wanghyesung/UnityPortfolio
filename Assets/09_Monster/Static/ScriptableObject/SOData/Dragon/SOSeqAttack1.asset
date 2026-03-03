@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0732f69a9d7f4604e8d33a468987ba70, type: 3}
+  m_Name: SOSeqAttack1
+  m_EditorClassIdentifier: 
+  m_listChild:
+  - {fileID: 11400000, guid: e484740eda8b6d547a9e0234307fd072, type: 2}
+  - {fileID: 11400000, guid: 54448cf0f3db88d48826aa649ad942bf, type: 2}
+  - {fileID: 11400000, guid: 28896565c91689e4fa54c423c7c7bde3, type: 2}
+  - {fileID: 11400000, guid: 7733ac331c5164244b35561c2a3afdc4, type: 2}
+  - {fileID: 11400000, guid: 8d4610ad65358b740afe2e86ebe369f8, type: 2}
+  - {fileID: 11400000, guid: 55860f39d26c0814e98b8152e7fe907d, type: 2}
+  - {fileID: 11400000, guid: ea9d618c8e8bc7b4ca5f6b78a9cafa6f, type: 2}

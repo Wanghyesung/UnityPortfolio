@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 083f772ff5525444e93ec2f83974f054, type: 3}
+  m_Name: BeeMonsterInfo
+  m_EditorClassIdentifier: 
+  MonsterID: 0
+  MonsterLevel: 1
+  MonsterType: 0
+  DropTable: {fileID: 11400000, guid: 6806a2572d05dc74f9cf19ade552e0f3, type: 2}
+  skillinfo:
+  - SkillOption: {fileID: 11400000, guid: 5f6e8754633d1214f85901cf13546a21, type: 2}
+    SpawnOption: {fileID: 11400000, guid: 3bab3a94527f8684184284061366ac4c, type: 2}

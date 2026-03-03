@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UIString Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UIString
+  m_TableCollectionNameGuidString: 6c158548e099ed842b301731fedb7308
+  m_Entries:
+  - m_Id: 2617472421888
+    m_Key: automatic selection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15808565248
+    m_Key: CloseNPCSpeech
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7734749794304
+    m_Key: equip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2604474273792
+    m_Key: Equip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 247409643520
+    m_Key: Inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8956533772288
+    m_Key: "Skill\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8958626729984
+    m_Key: System
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11853336576
+    m_Key: OpenNPCSpeech
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2611134828544
+    m_Key: Potion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230363992064
+    m_Key: Purchase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614381219840
+    m_Key: Quest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7732472287232
+    m_Key: Release
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6742343913472
+    m_Key: Retrun Town
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6748035584000
+    m_Key: return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6745766465536
+    m_Key: Return Town Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2811328958464
+    m_Key: Select equipment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226681393152
+    m_Key: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7730035396608
+    m_Key: SkillTree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2556049093791744
+    m_Key: Stat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2556052906414080
+    m_Key: HP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2556055544631296
+    m_Key: MP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2556058304483328
+    m_Key: Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2556061227913216
+    m_Key: Defend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2556064184897536
+    m_Key: Attack
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8658128937947758594
+  references:
+    version: 2
+    RefIds:
+    - rid: 8658128937947758594
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1768803638582

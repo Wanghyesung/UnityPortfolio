@@ -1,0 +1,6 @@
+# 이 파일은 editorconfig.org 규칙을 따릅니다.
+
+root = ture;
+
+[*]
+charset = utf-8

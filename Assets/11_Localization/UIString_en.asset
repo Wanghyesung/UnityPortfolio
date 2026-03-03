@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UIString_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 6c158548e099ed842b301731fedb7308, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11853336576
+    m_Localized: Open
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15808565248
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226681393152
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230363992064
+    m_Localized: Purchase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 247409643520
+    m_Localized: Inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2604474273792
+    m_Localized: Equip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2611134828544
+    m_Localized: Potion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614381219840
+    m_Localized: Quest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2617472421888
+    m_Localized: Auto select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2811328958464
+    m_Localized: Select Equip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6742343913472
+    m_Localized: Return Town
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6745766465536
+    m_Localized: Once you return, you will be moved to a nearby village.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6748035584000
+    m_Localized: Return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7730035396608
+    m_Localized: SkillTree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7732472287232
+    m_Localized: Release
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7734749794304
+    m_Localized: Equip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8956533772288
+    m_Localized: Skill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8958626729984
+    m_Localized: System
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2556049093791744
+    m_Localized: Stat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2556052906414080
+    m_Localized: HP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2556055544631296
+    m_Localized: MP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2556058304483328
+    m_Localized: Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2556061227913216
+    m_Localized: Defend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2556064184897536
+    m_Localized: Attack
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

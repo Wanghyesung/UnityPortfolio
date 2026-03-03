@@ -1,0 +1,85 @@
+# =========================================
+# Unity 프로젝트 Git Ignore 최적화 버전
+# =========================================
+
+### OS / 편집기 기본 무시 항목 ###
+# Mac OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Visual Studio / JetBrains Rider
+.vs/
+.idea/
+*.sln*
+*.csproj
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# VS Code
+.vscode/
+
+# =========================================
+### Unity 캐시 / 빌드 / 임시파일 ###
+# Unity 자동 생성 디렉토리
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# 빌드 결과물 (플랫폼별)
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+DerivedData/
+
+# AssetBundle / Addressables 출력물
+AssetBundles/
+StreamingAssets/aa/
+
+# Cache / 프로파일링 데이터
+sysinfo.txt
+*.stackdump
+*.memgraph
+*.cginc.meta
+
+# =========================================
+### Unity 에디터 환경 설정 (필요 시 유지 가능) ###
+# 아래 항목은 개발자 개인 환경이므로 무시 추천
+UserSettings/
+
+# =========================================
+### 기타 ###
+# Unity Cloud / Collaborate
+.collabignore
+# Crash Reports
+crash-reports/
+# Backup Files
+*.bak
+*.old
+*.orig
+*.tmp
+*.temp
+# Auto Generated
+*.generated.cs
+
+# =========================================
+### Keep 특정 폴더 구조만 남기기 ###
+# (빈 폴더를 유지하려면 .gitkeep 파일 생성)

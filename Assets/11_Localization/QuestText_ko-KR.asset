@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: QuestText_ko-KR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ko-KR
+  m_SharedData: {fileID: 11400000, guid: 53050776b5f17c8449e6b26f20f6eaf6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 418247839744
+    m_Localized: "\uB9C8\uC744 \uCD0C\uC7A5\uC758 \uBD80\uD0C1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 591338377216
+    m_Localized: "\uBC8C \uBAAC\uC2A4\uD130 2\uB9C8\uB9AC \uCC98\uB9AC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1463875090485248
+    m_Localized: "\uB9C8\uC744 \uCD0C\uC7A5\uC758 \uBD80\uD0C1 2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1463878995382272
+    m_Localized: "\uC2A4\uD1A4 \uBAAC\uC2A4\uD130 2\uB9C8\uB9AC \uCC98\uB9AC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2721397571031040
+    m_Localized: "\uB300\uC7A5\uC7A5\uC774\uC758 \uBC29\uD328"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2721401534648320
+    m_Localized: "\uBC84\uC12F \uBAAC\uC2A4\uD130\uB97C \uCC98\uCE58\uD558\uACE0
+      \uB300\uC7A5\uC7A5\uC774\uC758 \uBC29\uD328\uB97C 2\uAC1C \uAC00\uC838\uC624\uC790"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

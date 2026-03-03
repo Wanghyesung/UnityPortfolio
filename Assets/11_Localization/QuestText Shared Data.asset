@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: QuestText Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: QuestText
+  m_TableCollectionNameGuidString: 53050776b5f17c8449e6b26f20f6eaf6
+  m_Entries:
+  - m_Id: 418247839744
+    m_Key: NPCQuest_Monster0_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 591338377216
+    m_Key: NPCQuest_Monster0_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1463875090485248
+    m_Key: NPCQuest_Monster1_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1463878995382272
+    m_Key: NPCQuest_Monster1_Desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2721397571031040
+    m_Key: NPCQuest_Item0_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2721401534648320
+    m_Key: NPCQuest_Item1_Desc
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8658128622306983960
+  references:
+    version: 2
+    RefIds:
+    - rid: 8658128622306983960
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1767598314893

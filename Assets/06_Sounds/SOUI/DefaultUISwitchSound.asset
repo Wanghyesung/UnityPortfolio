@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 568a356ce0449d64a8f3e66223a66884, type: 3}
+  m_Name: DefaultUISwitchSound
+  m_EditorClassIdentifier: 
+  Clips:
+  - {fileID: 8300000, guid: df9c1ac9474e44c4387023d59ff25e97, type: 3}
+  - {fileID: 8300000, guid: 5bce832c3fe5535439bdd8b5e1fd958a, type: 3}
+  - {fileID: 8300000, guid: b01b4010805f2a447b235145287bb4c5, type: 3}
+  OutputGroup: {fileID: 2278533757642611163, guid: 5a827612d6e111f4695e78159cbdcdcd,
+    type: 2}
+  Volume: 1
+  PitchMin: 1
+  PitchMax: 1
+  spatial3D: 0
+  SpatialBlend: 1

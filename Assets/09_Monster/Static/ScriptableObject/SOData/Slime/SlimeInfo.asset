@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 083f772ff5525444e93ec2f83974f054, type: 3}
+  m_Name: SlimeInfo
+  m_EditorClassIdentifier: 
+  MonsterID: 5
+  MonsterLevel: 20
+  MonsterType: 0
+  DropTable: {fileID: 11400000, guid: 702b697e69218a14dac6387293aa0d2b, type: 2}
+  skillinfo:
+  - SkillOption: {fileID: 11400000, guid: cec28610493e8ed42a3119d1378c3a50, type: 2}
+    SpawnOption: {fileID: 11400000, guid: dd3cd0546f47ece48aded74f8f49c034, type: 2}
+  - SkillOption: {fileID: 11400000, guid: afb0bb678cb26bc4eb36cfb853ade89c, type: 2}
+    SpawnOption: {fileID: 11400000, guid: d6b5ad550f261d4488a5196fbc53ece3, type: 2}

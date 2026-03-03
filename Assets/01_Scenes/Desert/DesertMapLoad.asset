@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 126d0d3f3c61ae545ac803b28a3a5ee6, type: 3}
+  m_Name: DesertMapLoad
+  m_EditorClassIdentifier: 
+  BGM: {fileID: 11400000, guid: 09fcdb8fc355e79468b3afc63eb6157d, type: 2}
+  CurrentScene:
+    m_AssetGUID: 53f5a0914b195b74abc2fb43a9e2ce22
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  labelnames: []
+  poolentries:
+  - {fileID: 11400000, guid: 57434e21db5a3a14a900f8b09d3610ff, type: 2}
+  - {fileID: 11400000, guid: 9827f28ed5c9c58498db4d2e3cbf89ba, type: 2}
+  - {fileID: 11400000, guid: 8cd6f6e1de3ac2f438cf4a69a1b5c6a7, type: 2}
+  - {fileID: 11400000, guid: 14d333190d664b24eabb4ed9578379cf, type: 2}
+  - {fileID: 11400000, guid: 0f197732f73eb0742b15577d36172229, type: 2}
+  extraassets: []

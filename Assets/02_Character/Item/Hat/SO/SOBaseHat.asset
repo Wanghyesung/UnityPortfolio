@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 799b9cf2a83bf2a48a1acf7bb741836d, type: 3}
+  m_Name: SOBaseHat
+  m_EditorClassIdentifier: 
+  ItemID: 3
+  Level: 1
+  cooldown: 1
+  m_tBaseValues:
+    Int: 10
+    Float: 0
+    Vector4: {x: 0, y: 0, z: 0, w: 0}
+  EquippedEffects:
+  - {fileID: 11400000, guid: cf54b8434a512ef41b24d7b5806c0075, type: 2}
+  ReleaseEffects:
+  - {fileID: 11400000, guid: 925f6c2274c8c2647846696a335f6474, type: 2}
+  UsingEffects: []
+  ItemObject:
+    m_AssetGUID: 24896f9acf6c2ec4a9e3b02118f582de
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0

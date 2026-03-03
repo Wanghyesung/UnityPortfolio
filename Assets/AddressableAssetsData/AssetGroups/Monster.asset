@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Monster
+  m_EditorClassIdentifier: 
+  m_GroupName: Monster
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ac783c0fe0c867f4085db9cbbd7749da
+  m_SerializeEntries:
+  - m_GUID: 09f972149de28a747b0e90f137a2eb6e
+    m_Address: Assets/09_Monster/RunTime/Turtle/TurtleMonster.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c7f99ef724997342a1922fdc39826c4
+    m_Address: Assets/01_Scenes/BossMap/Monster/StoneMonster.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4364044276657424dbe5c5ee691df3a4
+    m_Address: Assets/01_Scenes/BossMap/Monster/dragon.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62ce852c342ec5d4c96de2d3302f6bce
+    m_Address: Assets/09_Monster/RunTime/Slime/SlimeMonster.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8df8731b977540146a1c90a255af9c3d
+    m_Address: Assets/09_Monster/Static/ScriptableObject/SOData/Turtle/Info/TurtleAttack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bca194c7c28edce428809a4e184c725f
+    m_Address: Assets/01_Scenes/BossMap/Monster/MushroomMonster.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7b8b1e8186bded4ca1259dc5e26ce23
+    m_Address: Assets/01_Scenes/BossMap/Monster/BeeMonster.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 756bffc39c63186429c6e82be11235bb, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ec35f89eb42a38c40a0593f9403928d9, type: 2}
+    - {fileID: 11400000, guid: 3382f3853384a90478a01e8472299f77, type: 2}

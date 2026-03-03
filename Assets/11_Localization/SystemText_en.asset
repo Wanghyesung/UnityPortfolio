@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: SystemText_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 2830a466166726543aa687949e343c54, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10314027008
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13887574016
+    m_Localized: Language Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17075245056
+    m_Localized: Korean
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20145475584
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23937126400
+    m_Localized: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 592455938576384
+    m_Localized: UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 592459730227200
+    m_Localized: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 592462724960256
+    m_Localized: BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 592788215533568
+    m_Localized: SoundControl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 728569894637568
+    m_Localized: Please touch the image
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14490749748088832
+    m_Localized: Graphic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14493157689626624
+    m_Localized: Graphic Control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14493160831160320
+    m_Localized: Render Scale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14493166216646656
+    m_Localized: Shadow Distance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14493169484009472
+    m_Localized: Use Shadow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14518214868570112
+    m_Localized: Shadow On
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14518364865269760
+    m_Localized: Shadow Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15518939371245568
+    m_Localized: Game Over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15518941795553280
+    m_Localized: Are you sure you want to end the game?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15518944140169216
+    m_Localized: Over
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

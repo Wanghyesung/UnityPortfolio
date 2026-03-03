@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 568a356ce0449d64a8f3e66223a66884, type: 3}
+  m_Name: DefaultUIClickSound
+  m_EditorClassIdentifier: 
+  Clips:
+  - {fileID: 8300000, guid: f0f3b9d2a65d8c04d893dd7d50329e99, type: 3}
+  - {fileID: 8300000, guid: 0aa36e59442d646428ddd35fc1312b6c, type: 3}
+  - {fileID: 8300000, guid: 35628d849ea64e847b37969f2d9a0e59, type: 3}
+  - {fileID: 8300000, guid: e9acda2c256863246ab80a50d11ff198, type: 3}
+  OutputGroup: {fileID: 2278533757642611163, guid: 5a827612d6e111f4695e78159cbdcdcd,
+    type: 2}
+  Volume: 1
+  PitchMin: 1
+  PitchMax: 1
+  spatial3D: 0
+  SpatialBlend: 1

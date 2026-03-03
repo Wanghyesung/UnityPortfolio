@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31fa4e1b031784d4abe260c6886fd844, type: 3}
+  m_Name: BeeMonsterNPCSpeech
+  m_EditorClassIdentifier: 
+  Speech: {fileID: 11400000, guid: 5bfe2a5841e1ed74faa94a0d41f1dab9, type: 2}
+  SpeechInfo: {fileID: 11400000, guid: 573a0c5ba41f4ca4a87eee5f75ebaa89, type: 2}

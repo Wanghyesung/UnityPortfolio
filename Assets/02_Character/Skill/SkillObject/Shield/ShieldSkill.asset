@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a700d625066d4438613e14487a6011, type: 3}
+  m_Name: ShieldSkill
+  m_EditorClassIdentifier: 
+  meta: {fileID: 11400000, guid: 3cf1ef97eaf6b814c9fae614e6d0225e, type: 2}
+  damage: {fileID: 0}
+  defense: {fileID: 11400000, guid: 04987e6b860d6664a8ce372cbc7dffeb, type: 2}
+  option: {fileID: 11400000, guid: 00e3a8397185beb4ab9f04c7a6d58fa7, type: 2}
+  logic: {fileID: 11400000, guid: 036a0456fab93924b9bc4078623bd555, type: 2}
+  animation: {fileID: 11400000, guid: be085820d0781df488e430980f8ed22f, type: 2}

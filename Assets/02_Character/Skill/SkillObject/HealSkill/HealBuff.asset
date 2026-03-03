@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59f6ce3e7df49db47b6b84e035ca1954, type: 3}
+  m_Name: HealBuff
+  m_EditorClassIdentifier: 
+  SpawnEffects:
+  - {fileID: 11400000, guid: 9dd95494c1f4acb44a580fcabbceef11, type: 2}
+  DeSpawnEffects: []
+  LifeTimeEffects: []

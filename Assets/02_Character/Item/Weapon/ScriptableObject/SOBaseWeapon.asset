@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 799b9cf2a83bf2a48a1acf7bb741836d, type: 3}
+  m_Name: SOBaseWeapon
+  m_EditorClassIdentifier: 
+  ItemID: 0
+  Level: 1
+  cooldown: 1
+  m_tBaseValues:
+    Int: 10
+    Float: 0
+    Vector4: {x: 0, y: 0, z: 0, w: 0}
+  EquippedEffects:
+  - {fileID: 11400000, guid: 143b7467cd419954c946d7a336584472, type: 2}
+  - {fileID: 11400000, guid: 8d959035a3ae3444996b24afc1559657, type: 2}
+  ReleaseEffects:
+  - {fileID: 11400000, guid: ee64a61ed2a564c4ea5e8e9771f77665, type: 2}
+  UsingEffects: []
+  ItemObject:
+    m_AssetGUID: 422272c0ecdd2214bb0dad72fa6de9ab
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0

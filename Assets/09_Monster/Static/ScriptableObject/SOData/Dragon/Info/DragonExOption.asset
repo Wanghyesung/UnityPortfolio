@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a64f2ce7f72244f96792a7a761bdfd, type: 3}
+  m_Name: DragonExOption
+  m_EditorClassIdentifier: 
+  TargetLayers:
+    serializedVersion: 2
+    m_Bits: 64
+  CoolTime: 0
+  AttackRange: 0
+  AttackDamage: 15
+  AttackPower: 6
+  AttackTime: 0
+  MoveSpeed: 0
+  isDown: 1
+  DestroyOn: 0

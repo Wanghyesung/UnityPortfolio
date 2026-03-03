@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f79fc55a334c23245abb91e9de3150a7, type: 3}
+  m_Name: FireBallLogic
+  m_EditorClassIdentifier: 
+  skillLogic:
+  - {fileID: 11400000, guid: 949544ee52f56c94393e4b4c69ca4ff5, type: 2}
+  - {fileID: 11400000, guid: a6a74b09f0f5c444eb954a6c1175f1f3, type: 2}
+  - {fileID: 11400000, guid: e59028f29b3793a4da8ff764328de60e, type: 2}
+  - {fileID: 11400000, guid: cf664e96863755c479fdd1ac21a9e8d3, type: 2}
+  - {fileID: 11400000, guid: 34c1644af02e9ae48845e6e0994a0091, type: 2}
+  - {fileID: 11400000, guid: 12d66d745c4f2ed4783f874418978c86, type: 2}
+  endSkillLogic: {fileID: 0}
+  startSkillLogic: {fileID: 0}

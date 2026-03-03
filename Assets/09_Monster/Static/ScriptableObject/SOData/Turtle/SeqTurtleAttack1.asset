@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0732f69a9d7f4604e8d33a468987ba70, type: 3}
+  m_Name: SeqTurtleAttack1
+  m_EditorClassIdentifier: 
+  m_listChild:
+  - {fileID: 11400000, guid: 13fdcb20b6edfff45910de05562515a3, type: 2}
+  - {fileID: 11400000, guid: 8646c4909e2c1774ca6a52e437cee1f8, type: 2}
+  - {fileID: 11400000, guid: 5c134d0ac2a2bd34b87d45de013b3451, type: 2}
+  - {fileID: 11400000, guid: 7733ac331c5164244b35561c2a3afdc4, type: 2}
+  - {fileID: 11400000, guid: 8d4610ad65358b740afe2e86ebe369f8, type: 2}
+  - {fileID: 11400000, guid: 55860f39d26c0814e98b8152e7fe907d, type: 2}
+  - {fileID: 11400000, guid: d578b4d2e7f6c89428eb91e9c3979522, type: 2}
+  - {fileID: 11400000, guid: ea9d618c8e8bc7b4ca5f6b78a9cafa6f, type: 2}
+  - {fileID: 11400000, guid: 1c72241b6f48ed0429cc69ace0644e21, type: 2}
