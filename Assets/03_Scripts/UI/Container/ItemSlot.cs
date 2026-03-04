@@ -60,7 +60,10 @@ public class ItemSlot : Slot
 
         //데이터 사용 후 인덱스 업데이트
         if (m_pOwner?.Consume(m_iSlotIdx, iConsumeCount) == false)
+        {
             Bind(null);
+            return;
+        }
 
         m_pItemEquipContext.pTarget = GameManager.m_Instance.Player.gameObject;
         ItemEffectRunner.ApplyEffectUsing(m_pSOItem.ItemData, m_pItemEquipContext);

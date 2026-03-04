@@ -114,7 +114,7 @@ public class GameSceneManager : MonoBehaviour
         System.GC.Collect();
         m_tCurScene = pResultHandle.Result;
        
-        //씬 전용 리소스 병랠 로딩
+        //씬 전용 리소스 병렬 로딩
         List<Task> listTask = new List<Task>();
         for (int i = 0; i < pSceneLoadData.labelnames.Count; ++i)
             listTask.Add(LoadLabel(pSceneLoadData.labelnames[i], _tCT));
