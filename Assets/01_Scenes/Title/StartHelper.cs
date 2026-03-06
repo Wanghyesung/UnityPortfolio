@@ -10,9 +10,9 @@ public class StartHelper : MonoBehaviour
 
     public void Awake()
     {
+
         QualitySettings.vSyncCount = 0;
         Application.targetFrameRate = 120;
-
     }
     public async void Enter()
     {
